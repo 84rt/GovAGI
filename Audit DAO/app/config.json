@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "berkeley": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeley.json",
+      "fee": "0.1",
+      "smartContract": "Quiz"
+    },
+    "berkeley2": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkley2.json",
+      "fee": "0.1",
+      "smartContract": "QuizToken"
+    },
+    "berkeley3": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeley3.json",
+      "fee": "0.1",
+      "smartContract": "YKProof"
+    },
+    "berkeley2023": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeley2023.json",
+      "feepayerKeyPath": "/Users/alysiahuggins/.cache/zkapp-cli/keys/berkeley2.json",
+      "feepayerAlias": "berkeley2",
+      "fee": "0.1"
+    },
+    "berkeleynow": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeleynow.json",
+      "feepayerKeyPath": "/Users/alysiahuggins/.cache/zkapp-cli/keys/03-deploy.json",
+      "feepayerAlias": "03-deploy",
+      "fee": "0.1",
+      "smartContract": "YKProof"
+    },
+    "berkeleytoday": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeleytoday.json",
+      "feepayerKeyPath": "/Users/alysiahuggins/.cache/zkapp-cli/keys/03-deploy.json",
+      "feepayerAlias": "03-deploy",
+      "fee": "0.1",
+      "smartContract": "ClaimAccountSC"
+    },
+    "berkeleyworks": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeleyworks.json",
+      "feepayerKeyPath": "/Users/alysiahuggins/.cache/zkapp-cli/keys/03-deploy.json",
+      "feepayerAlias": "03-deploy",
+      "fee": "0.1",
+      "smartContract": "YKProof"
+    },
+    "berkeleyworksnow": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeleyworksnow.json",
+      "feepayerKeyPath": "/Users/alysiahuggins/.cache/zkapp-cli/keys/nov2023.json",
+      "feepayerAlias": "nov2023",
+      "fee": "0.1"
+    }
+  }
+}
